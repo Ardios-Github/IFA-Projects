@@ -1,0 +1,11 @@
+C:\Users\modele\Documents\Mes programmes\DOTNET\PremierProjet\PremierProjet\bin\Debug\netcoreapp3.1\PremierProjet.exe
+C:\Users\modele\Documents\Mes programmes\DOTNET\PremierProjet\PremierProjet\bin\Debug\netcoreapp3.1\PremierProjet.deps.json
+C:\Users\modele\Documents\Mes programmes\DOTNET\PremierProjet\PremierProjet\bin\Debug\netcoreapp3.1\PremierProjet.runtimeconfig.json
+C:\Users\modele\Documents\Mes programmes\DOTNET\PremierProjet\PremierProjet\bin\Debug\netcoreapp3.1\PremierProjet.runtimeconfig.dev.json
+C:\Users\modele\Documents\Mes programmes\DOTNET\PremierProjet\PremierProjet\bin\Debug\netcoreapp3.1\PremierProjet.dll
+C:\Users\modele\Documents\Mes programmes\DOTNET\PremierProjet\PremierProjet\bin\Debug\netcoreapp3.1\PremierProjet.pdb
+C:\Users\modele\Documents\Mes programmes\DOTNET\PremierProjet\PremierProjet\obj\Debug\netcoreapp3.1\PremierProjet.csprojAssemblyReference.cache
+C:\Users\modele\Documents\Mes programmes\DOTNET\PremierProjet\PremierProjet\obj\Debug\netcoreapp3.1\PremierProjet.AssemblyInfoInputs.cache
+C:\Users\modele\Documents\Mes programmes\DOTNET\PremierProjet\PremierProjet\obj\Debug\netcoreapp3.1\PremierProjet.AssemblyInfo.cs
+C:\Users\modele\Documents\Mes programmes\DOTNET\PremierProjet\PremierProjet\obj\Debug\netcoreapp3.1\PremierProjet.dll
+C:\Users\modele\Documents\Mes programmes\DOTNET\PremierProjet\PremierProjet\obj\Debug\netcoreapp3.1\PremierProjet.pdb
