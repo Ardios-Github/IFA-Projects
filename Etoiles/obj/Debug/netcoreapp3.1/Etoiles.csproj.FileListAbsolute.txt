@@ -1,0 +1,21 @@
+C:\Users\modele\Documents\Mes programmes\DOTNET\Etoiles\Etoiles\bin\Debug\netcoreapp3.1\Etoiles.exe
+C:\Users\modele\Documents\Mes programmes\DOTNET\Etoiles\Etoiles\bin\Debug\netcoreapp3.1\Etoiles.deps.json
+C:\Users\modele\Documents\Mes programmes\DOTNET\Etoiles\Etoiles\bin\Debug\netcoreapp3.1\Etoiles.runtimeconfig.json
+C:\Users\modele\Documents\Mes programmes\DOTNET\Etoiles\Etoiles\bin\Debug\netcoreapp3.1\Etoiles.runtimeconfig.dev.json
+C:\Users\modele\Documents\Mes programmes\DOTNET\Etoiles\Etoiles\bin\Debug\netcoreapp3.1\Etoiles.dll
+C:\Users\modele\Documents\Mes programmes\DOTNET\Etoiles\Etoiles\bin\Debug\netcoreapp3.1\Etoiles.pdb
+C:\Users\modele\Documents\Mes programmes\DOTNET\Etoiles\Etoiles\obj\Debug\netcoreapp3.1\Etoiles.AssemblyInfoInputs.cache
+C:\Users\modele\Documents\Mes programmes\DOTNET\Etoiles\Etoiles\obj\Debug\netcoreapp3.1\Etoiles.AssemblyInfo.cs
+C:\Users\modele\Documents\Mes programmes\DOTNET\Etoiles\Etoiles\obj\Debug\netcoreapp3.1\Etoiles.dll
+C:\Users\modele\Documents\Mes programmes\DOTNET\Etoiles\Etoiles\obj\Debug\netcoreapp3.1\Etoiles.pdb
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Etoiles\Etoiles\bin\Debug\netcoreapp3.1\Etoiles.exe
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Etoiles\Etoiles\bin\Debug\netcoreapp3.1\Etoiles.deps.json
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Etoiles\Etoiles\bin\Debug\netcoreapp3.1\Etoiles.runtimeconfig.json
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Etoiles\Etoiles\bin\Debug\netcoreapp3.1\Etoiles.runtimeconfig.dev.json
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Etoiles\Etoiles\bin\Debug\netcoreapp3.1\Etoiles.dll
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Etoiles\Etoiles\bin\Debug\netcoreapp3.1\Etoiles.pdb
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Etoiles\Etoiles\obj\Debug\netcoreapp3.1\Etoiles.csprojAssemblyReference.cache
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Etoiles\Etoiles\obj\Debug\netcoreapp3.1\Etoiles.AssemblyInfoInputs.cache
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Etoiles\Etoiles\obj\Debug\netcoreapp3.1\Etoiles.AssemblyInfo.cs
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Etoiles\Etoiles\obj\Debug\netcoreapp3.1\Etoiles.dll
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Etoiles\Etoiles\obj\Debug\netcoreapp3.1\Etoiles.pdb
