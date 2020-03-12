@@ -1,0 +1,11 @@
+C:\Users\modele\Documents\Mes programmes\DOTNET\Suite géométrique\Suite géométrique\bin\Debug\netcoreapp3.1\Suite géométrique.exe
+C:\Users\modele\Documents\Mes programmes\DOTNET\Suite géométrique\Suite géométrique\bin\Debug\netcoreapp3.1\Suite géométrique.deps.json
+C:\Users\modele\Documents\Mes programmes\DOTNET\Suite géométrique\Suite géométrique\bin\Debug\netcoreapp3.1\Suite géométrique.runtimeconfig.json
+C:\Users\modele\Documents\Mes programmes\DOTNET\Suite géométrique\Suite géométrique\bin\Debug\netcoreapp3.1\Suite géométrique.runtimeconfig.dev.json
+C:\Users\modele\Documents\Mes programmes\DOTNET\Suite géométrique\Suite géométrique\bin\Debug\netcoreapp3.1\Suite géométrique.dll
+C:\Users\modele\Documents\Mes programmes\DOTNET\Suite géométrique\Suite géométrique\bin\Debug\netcoreapp3.1\Suite géométrique.pdb
+C:\Users\modele\Documents\Mes programmes\DOTNET\Suite géométrique\Suite géométrique\obj\Debug\netcoreapp3.1\Suite géométrique.AssemblyInfoInputs.cache
+C:\Users\modele\Documents\Mes programmes\DOTNET\Suite géométrique\Suite géométrique\obj\Debug\netcoreapp3.1\Suite géométrique.AssemblyInfo.cs
+C:\Users\modele\Documents\Mes programmes\DOTNET\Suite géométrique\Suite géométrique\obj\Debug\netcoreapp3.1\Suite géométrique.dll
+C:\Users\modele\Documents\Mes programmes\DOTNET\Suite géométrique\Suite géométrique\obj\Debug\netcoreapp3.1\Suite géométrique.pdb
+C:\Users\modele\Documents\Mes programmes\DOTNET\Suite géométrique\Suite géométrique\obj\Debug\netcoreapp3.1\Suite géométrique.csprojAssemblyReference.cache
