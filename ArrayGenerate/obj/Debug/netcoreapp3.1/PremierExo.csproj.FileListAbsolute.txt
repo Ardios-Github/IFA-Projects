@@ -1,0 +1,22 @@
+C:\Users\modele\Documents\Mes programmes\DOTNET\PremierExo\PremierExo\bin\Debug\netcoreapp3.1\PremierExo.exe
+C:\Users\modele\Documents\Mes programmes\DOTNET\PremierExo\PremierExo\bin\Debug\netcoreapp3.1\PremierExo.deps.json
+C:\Users\modele\Documents\Mes programmes\DOTNET\PremierExo\PremierExo\bin\Debug\netcoreapp3.1\PremierExo.runtimeconfig.json
+C:\Users\modele\Documents\Mes programmes\DOTNET\PremierExo\PremierExo\bin\Debug\netcoreapp3.1\PremierExo.runtimeconfig.dev.json
+C:\Users\modele\Documents\Mes programmes\DOTNET\PremierExo\PremierExo\bin\Debug\netcoreapp3.1\PremierExo.dll
+C:\Users\modele\Documents\Mes programmes\DOTNET\PremierExo\PremierExo\bin\Debug\netcoreapp3.1\PremierExo.pdb
+C:\Users\modele\Documents\Mes programmes\DOTNET\PremierExo\PremierExo\obj\Debug\netcoreapp3.1\PremierExo.AssemblyInfoInputs.cache
+C:\Users\modele\Documents\Mes programmes\DOTNET\PremierExo\PremierExo\obj\Debug\netcoreapp3.1\PremierExo.AssemblyInfo.cs
+C:\Users\modele\Documents\Mes programmes\DOTNET\PremierExo\PremierExo\obj\Debug\netcoreapp3.1\PremierExo.dll
+C:\Users\modele\Documents\Mes programmes\DOTNET\PremierExo\PremierExo\obj\Debug\netcoreapp3.1\PremierExo.pdb
+C:\Users\modele\Documents\Mes programmes\DOTNET\PremierExo\PremierExo\obj\Debug\netcoreapp3.1\PremierExo.csprojAssemblyReference.cache
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\PremierExo\PremierExo\bin\Debug\netcoreapp3.1\PremierExo.exe
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\PremierExo\PremierExo\bin\Debug\netcoreapp3.1\PremierExo.deps.json
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\PremierExo\PremierExo\bin\Debug\netcoreapp3.1\PremierExo.runtimeconfig.json
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\PremierExo\PremierExo\bin\Debug\netcoreapp3.1\PremierExo.runtimeconfig.dev.json
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\PremierExo\PremierExo\bin\Debug\netcoreapp3.1\PremierExo.dll
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\PremierExo\PremierExo\bin\Debug\netcoreapp3.1\PremierExo.pdb
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\PremierExo\PremierExo\obj\Debug\netcoreapp3.1\PremierExo.csprojAssemblyReference.cache
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\PremierExo\PremierExo\obj\Debug\netcoreapp3.1\PremierExo.AssemblyInfoInputs.cache
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\PremierExo\PremierExo\obj\Debug\netcoreapp3.1\PremierExo.AssemblyInfo.cs
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\PremierExo\PremierExo\obj\Debug\netcoreapp3.1\PremierExo.dll
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\PremierExo\PremierExo\obj\Debug\netcoreapp3.1\PremierExo.pdb
