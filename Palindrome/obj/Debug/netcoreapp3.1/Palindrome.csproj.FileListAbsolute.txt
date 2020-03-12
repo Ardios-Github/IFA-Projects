@@ -1,0 +1,22 @@
+C:\Users\modele\Documents\Mes programmes\DOTNET\Palindrome\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.exe
+C:\Users\modele\Documents\Mes programmes\DOTNET\Palindrome\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.deps.json
+C:\Users\modele\Documents\Mes programmes\DOTNET\Palindrome\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.runtimeconfig.json
+C:\Users\modele\Documents\Mes programmes\DOTNET\Palindrome\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.runtimeconfig.dev.json
+C:\Users\modele\Documents\Mes programmes\DOTNET\Palindrome\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.dll
+C:\Users\modele\Documents\Mes programmes\DOTNET\Palindrome\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.pdb
+C:\Users\modele\Documents\Mes programmes\DOTNET\Palindrome\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.csprojAssemblyReference.cache
+C:\Users\modele\Documents\Mes programmes\DOTNET\Palindrome\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.AssemblyInfoInputs.cache
+C:\Users\modele\Documents\Mes programmes\DOTNET\Palindrome\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.AssemblyInfo.cs
+C:\Users\modele\Documents\Mes programmes\DOTNET\Palindrome\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.dll
+C:\Users\modele\Documents\Mes programmes\DOTNET\Palindrome\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.pdb
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Palindrome\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.exe
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Palindrome\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.deps.json
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Palindrome\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.runtimeconfig.json
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Palindrome\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.runtimeconfig.dev.json
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Palindrome\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.dll
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Palindrome\Palindrome\bin\Debug\netcoreapp3.1\Palindrome.pdb
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Palindrome\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.csprojAssemblyReference.cache
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Palindrome\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.AssemblyInfoInputs.cache
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Palindrome\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.AssemblyInfo.cs
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Palindrome\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.dll
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Palindrome\Palindrome\obj\Debug\netcoreapp3.1\Palindrome.pdb
