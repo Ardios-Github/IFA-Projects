@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\modele\\Documents\\Mes programmes\\DOTNET\\Exercices\\Suite-Fibonacci\\Suite-Fibonacci\\Suite-Fibonacci.csproj",
+      "projectUniqueName": "C:\\Users\\modele\\Documents\\Cours Programmation\\.NET C#\\Exercices\\Suite-Fibonacci\\Suite-Fibonacci\\Suite-Fibonacci.csproj",
       "projectName": "Suite-Fibonacci",
-      "projectPath": "C:\\Users\\modele\\Documents\\Mes programmes\\DOTNET\\Exercices\\Suite-Fibonacci\\Suite-Fibonacci\\Suite-Fibonacci.csproj",
+      "projectPath": "C:\\Users\\modele\\Documents\\Cours Programmation\\.NET C#\\Exercices\\Suite-Fibonacci\\Suite-Fibonacci\\Suite-Fibonacci.csproj",
       "packagesPath": "C:\\Users\\modele\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\modele\\Documents\\Mes programmes\\DOTNET\\Exercices\\Suite-Fibonacci\\Suite-Fibonacci\\obj\\",
+      "outputPath": "C:\\Users\\modele\\Documents\\Cours Programmation\\.NET C#\\Exercices\\Suite-Fibonacci\\Suite-Fibonacci\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\modele\\AppData\\Roaming\\NuGet\\NuGet.Config",

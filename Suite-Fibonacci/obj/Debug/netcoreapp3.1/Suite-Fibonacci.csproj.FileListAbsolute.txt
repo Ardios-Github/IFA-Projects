@@ -20,3 +20,14 @@ C:\Users\modele\Documents\Mes programmes\DOTNET\Exercices\Suite-Fibonacci\Suite-
 C:\Users\modele\Documents\Mes programmes\DOTNET\Exercices\Suite-Fibonacci\Suite-Fibonacci\obj\Debug\netcoreapp3.1\Suite-Fibonacci.AssemblyInfo.cs
 C:\Users\modele\Documents\Mes programmes\DOTNET\Exercices\Suite-Fibonacci\Suite-Fibonacci\obj\Debug\netcoreapp3.1\Suite-Fibonacci.dll
 C:\Users\modele\Documents\Mes programmes\DOTNET\Exercices\Suite-Fibonacci\Suite-Fibonacci\obj\Debug\netcoreapp3.1\Suite-Fibonacci.pdb
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Suite-Fibonacci\Suite-Fibonacci\bin\Debug\netcoreapp3.1\Suite-Fibonacci.exe
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Suite-Fibonacci\Suite-Fibonacci\bin\Debug\netcoreapp3.1\Suite-Fibonacci.deps.json
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Suite-Fibonacci\Suite-Fibonacci\bin\Debug\netcoreapp3.1\Suite-Fibonacci.runtimeconfig.json
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Suite-Fibonacci\Suite-Fibonacci\bin\Debug\netcoreapp3.1\Suite-Fibonacci.runtimeconfig.dev.json
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Suite-Fibonacci\Suite-Fibonacci\bin\Debug\netcoreapp3.1\Suite-Fibonacci.dll
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Suite-Fibonacci\Suite-Fibonacci\bin\Debug\netcoreapp3.1\Suite-Fibonacci.pdb
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Suite-Fibonacci\Suite-Fibonacci\obj\Debug\netcoreapp3.1\Suite-Fibonacci.csprojAssemblyReference.cache
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Suite-Fibonacci\Suite-Fibonacci\obj\Debug\netcoreapp3.1\Suite-Fibonacci.AssemblyInfoInputs.cache
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Suite-Fibonacci\Suite-Fibonacci\obj\Debug\netcoreapp3.1\Suite-Fibonacci.AssemblyInfo.cs
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Suite-Fibonacci\Suite-Fibonacci\obj\Debug\netcoreapp3.1\Suite-Fibonacci.dll
+C:\Users\modele\Documents\Cours Programmation\.NET C#\Exercices\Suite-Fibonacci\Suite-Fibonacci\obj\Debug\netcoreapp3.1\Suite-Fibonacci.pdb

@@ -17,7 +17,7 @@ namespace Suite_Fibonacci
 
 			if (choix == "1") 
 			{
-				Console.WriteLine("Vous avez choisi la version optimisée...");
+				Console.WriteLine("Vous avez choisi la version non-optimisée... Attention aux gros chiffres !");
 				for (int i = 0; i <= N; i++)
 				{
 					int[] tabFiboOpti = new int[N + 1];
@@ -28,7 +28,7 @@ namespace Suite_Fibonacci
 			}
 			else if (choix == "2")
 			{
-				Console.WriteLine("Vous avez choisi la version non-optimisée... Attention aux gros chiffres !");
+				Console.WriteLine("Vous avez choisi la version optimisée.");
 				for (int i = 0; i <= N; i++)
 				{
 					int[] tabFiboOpti = new int[N + 1];
